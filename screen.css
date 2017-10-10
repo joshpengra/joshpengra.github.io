@@ -31,7 +31,8 @@ height: 180px;
 }
 p {
 font-size: 300%;
-color: dodgerblue;  
+color: dodgerblue;
+text-align:center;  
 }
 p {
 background-color:lightgray;
