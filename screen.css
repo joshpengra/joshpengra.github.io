@@ -23,13 +23,18 @@ h1 {
 font-size: 1000%;
 color: dodgerblue;
 font-weight: bold;
+text-align:center;
 }
 h1 {
 background-color: powderblue;
 height: 180px;
-text-align:center;
 }
 p {
 font-size: 300%;
 color: dodgerblue;  
 }
+p {
+background-color:lightgray;
+height: 725px;
+}
+
