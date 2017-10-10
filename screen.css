@@ -59,3 +59,15 @@ a:hover {
 #main {
 	padding: 50px;
 }
+h1 {
+font-size: 1000%;
+color: dodgerblue;
+}
+h1 {
+background-color: powderblue;
+height: 180px;
+}
+p {
+font-size: 300%;
+color: dodgerblue;  
+}
